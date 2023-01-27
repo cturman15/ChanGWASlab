@@ -15,8 +15,8 @@ common reference panel, the 1,000 Genomes Phase I release.
 genetic variation in 20,691 subjects from four large cohorts. PLoS ONE.(2017);PMID: 28301549](https://github.com/cturman15/changwaslab/files/10522833/LindstromS_PLOS_2017.pdf)
 
 Since 2017, more samples have been genotyped using the same and different GWAS arrays. We have
-created five datasets and performed imputions using newer reference panels, 1,000 Genomes P
-hase III release, Haplotype Reference Consortium (HRC) release I, and Trans-Omics for Precision 
+created five datasets and performed imputions using newer reference panels, 1,000 Genomes 
+Phase III release, Haplotype Reference Consortium (HRC) release I, and Trans-Omics for Precision 
 Medicine (TOPMed) release II. 
 
 Here, we provide updates on ...
