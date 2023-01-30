@@ -12,7 +12,8 @@ created three new datasets merged by platform family and performed imputation us
 common reference panel, the 1,000 Genomes Phase I release.
 
 [Lindström S, Loomis S, Turman C, Huang H, Huang J, Aschard H, et al. A comprehensive survey of 
-genetic variation in 20,691 subjects from four large cohorts. PLoS ONE.(2017);PMID: 28301549](https://github.com/cturman15/changwaslab/files/10522833/LindstromS_PLOS_2017.pdf)
+genetic variation in 20,691 subjects from four large cohorts. PLoS ONE.(2017);PMID: 28301549]
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5354293/)
 
 Since 2017, more samples have been genotyped using the same and different GWAS arrays. We have
 created five datasets and performed imputions using newer reference panels, 1,000 Genomes 
