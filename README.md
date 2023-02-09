@@ -14,15 +14,15 @@ it difficult to conduct analyses of secondary phenotypes or share controls acros
 To allow for secondary analyses of these data, we have created three new datasets merged
 by platform family and performed imputation using a common reference panel, the 1,000 Genomes
 Phase I release. The work were presented in
-[[1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5354293/)].
+[[1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5354293/ "Lindström S, Loomis S, Turman C, Huang H, Huang J, Aschard H, et al. A comprehensive survey of genetic variation in 20,691 subjects from four large cohorts. PLoS ONE.(2017);PMID: 28301549")].
 
 ### Present
 
 Since 2017, more subjects have been genotyped using the same and different genotyping arrays. 
 To date, over 44,000 subjects have been genotyped. We have created five datasets 
-([Table 1](https://docs.google.com/spreadsheets/d/1i8Tl8p1VM2HMXRtavLaLsO1wxT_JeWH-vtNW7aKhnpw/edit?usp=sharing))
+([Table 1](https://docs.google.com/spreadsheets/d/1i8Tl8p1VM2HMXRtavLaLsO1wxT_JeWH-vtNW7aKhnpw/edit?usp=sharing "Table 1. Numbers of GWAS samples in NHS/NHSII/HPFS/PHS cohorts"))
 of seventeen primary outcomes 
-([Table 2](https://docs.google.com/spreadsheets/d/1PLOWKqM6Lb15C3e7IIM1VwsAT7H0VJ1QWsVNZSgGitw/edit?usp=sharing)).
+([Table 2](https://docs.google.com/spreadsheets/d/1PLOWKqM6Lb15C3e7IIM1VwsAT7H0VJ1QWsVNZSgGitw/edit?usp=sharing "Table 2. GWAS datasets in NHS/NHSII/HPFS/PHS cohorts")).
 We performed imputations using newer reference panels, 1,000 Genomes Phase III release, 
 Haplotype Reference Consortium (HRC) release I, and Trans-Omics for Precision Medicine (TOPMed) release II. 
 
