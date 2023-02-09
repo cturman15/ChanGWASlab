@@ -3,13 +3,11 @@
 The Nurses' Health Study (NHS), Nurses' Health Study II (NHSII), Health Professionals Follow
 Up Study (HPFS) and the Physicians Health Study (PHS) have collected detailed longitudinal
 data on multiple exposures and traits for approximately 310,000 study participants
-over the last 35 years. Over 160,000 study participants across the cohorts have donated a
+over the last 40 years. 
+
+In 2017, over 160,000 study participants across the cohorts have donated a
 DNA sample and to date, 20,691 subjects have been genotyped as part of genome-wide
-association studies (GWAS) of twelve primary outcomes. However, these studies utilized
-six different GWAS arrays making it difficult to conduct analyses of secondary phenotypes
-or share controls across studies. To allow for secondary analyses of these data, we have
-created three new datasets merged by platform family and performed imputation using a
-common reference panel, the 1,000 Genomes Phase I release.
+association studies (GWAS) of twelve primary outcomes. 
 
 [Lindström S, Loomis S, Turman C, Huang H, Huang J, Aschard H, et al. A comprehensive survey of 
 genetic variation in 20,691 subjects from four large cohorts. PLoS ONE.(2017);PMID: 28301549](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5354293/)
