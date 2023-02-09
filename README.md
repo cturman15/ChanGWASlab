@@ -21,5 +21,6 @@ Medicine (TOPMed) release II.
 
 Here, we provide updates on ...
 
-[Table 1. Numbers of samples in NHS/NHSII/HPFS/PHS studies.](https://docs.google.com/spreadsheets/d/1i8Tl8p1VM2HMXRtavLaLsO1wxT_JeWH-vtNW7aKhnpw/edit?usp=sharing)
+[Table 1. Numbers of samples in NHS/NHSII/HPFS/PHS cohorts.](https://docs.google.com/spreadsheets/d/1i8Tl8p1VM2HMXRtavLaLsO1wxT_JeWH-vtNW7aKhnpw/edit?usp=sharing)
 
+[Table 2. GWAS datasets in NHS/NHSII/HPFS/PHS cohorts.](https://docs.google.com/spreadsheets/d/1PLOWKqM6Lb15C3e7IIM1VwsAT7H0VJ1QWsVNZSgGitw/edit?usp=sharing)
