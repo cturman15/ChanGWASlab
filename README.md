@@ -16,7 +16,9 @@ Successfully merging genotype data for different individuals requires complete o
 
 In the merging process, we removed variants with call rate<5%. We ran a pairwise identity by descent (IBD) analysis within and across the combined dataset to detect duplicate and related individuals. Some of the duplicates flagged were expected, having been genotyped in multiple datasets and hence having the same cohort identifiers. In this case, the sample with lower call rate in each pair was removed from the dataset. In instances where pairs showed pairwise genotype concordance rate>0.999 but were not expected duplicates, both individuals were removed. Related individuals (full siblings, half siblings/avunculars) were not removed from the final datasets. Across the five datasets, we identified 3,166 duplicate pairs (2,828 expected) and thus additional 3,166 dupliate individuals should be removed from analysis across all five platform families ([Table 1](https://docs.google.com/spreadsheets/d/1i8Tl8p1VM2HMXRtavLaLsO1wxT_JeWH-vtNW7aKhnpw/edit?usp=sharing "Table 1. Numbers of GWAS samples in NHS/NHSII/HPFS/PHS cohorts")).
 
-After removing duplicate samples[^1], we used EIGENSTRAT [^2] to run principal component analysis (PCA) on each dataset
+After removing duplicate samples, we used EIGENSTRAT [^2] to run principal component analysis (PCA) on each dataset. For Affymetrix and Illumina HumanHap, we used approximately 12,000 SNPs from Yu et al [^3] that were filtered to ensure low pairwise linkage disequilibrium (LD). For the OmniExpress dataset we used approximately 33,000 SNPs that were similarly filtered. The top principal components were manually checked for outliers.
+
+To identify any variants that created spurious associations, we ran several logistic regression analyses among subjects that were selected as controls in the initial GWAS (i.e. excluding all case subjects). For each regression, we used cohort-specific controls from one original GWAS as cases and the rest of the controls in that dataset as controls. For example, in the OmniExpress dataset, we considered NHS controls from the gout GWAS as “cases” while treating controls from the gout (HPFS), endometrial cancer (NHS), colon cancer (NHS, HPFS and PHS), and mammographic density (NHS) as “controls”. We repeated this, treating each cohort-specific “controls set” as “cases” and all other controls as “controls”. For each GWAS, we excluded genome-wide significant variants (p < $10^{-8}$) and examined QQ plots.
 
 ## Imputation
 
@@ -27,4 +29,4 @@ genetic variation in 20,691 subjects from four large cohorts.
 
 [^2]: Price AL, Patterson NJ, Plenge RM, Weinblatt ME, Shadick NA, Reich D. Principal components analysis corrects for stratification in genome-wide association studies. [Nature genetics. 2006;38(8):904–9. 10.1038/ng1847](https://pubmed.ncbi.nlm.nih.gov/16862161/)
 
-
+[^3]: Yu K, Wang Z, Li Q, Wacholder S, Hunter DJ, Hoover RN, et al. Population substructure and control selection in genome-wide association studies. [PloS one. 2008;3(7):e2551 PubMed Central PMCID: PMC2432498. 10.1371/journal.pone.0002551](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2432498/)
