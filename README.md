@@ -26,9 +26,8 @@ Before imputation, we performed alleles, strand, and allele frequency comparison
 
 ## Data access
 
-The Nurses Health Studies and Health Professionals Follow-up Study welcome new collaborations and strive to make establishing them as simple and transparent as possible. Limits are not placed on scientific questions or methods, and there is no requirement for co-authorship.   
-Investigators interested in collaborations are invited to fill out a simple form (NHS/NHS2, HPFS) that asks about the details of the collaboration. Every two weeks, new collaboration requests are reviewed based on feasibility; the vast majority of requests are approved.
-![image](https://user-images.githubusercontent.com/57194075/222195866-75bf9aaf-1840-4a65-98f8-d24adc4f2fe8.png)
+The Nurses' Health Study (NHS), Nurses' Health Study II (NHSII), Health Professionals Follow Up Study (HPFS) welcome new collaborations and strive to make establishing them as simple and transparent as possible. Limits are not placed on scientific questions or methods, and there is no requirement for co-authorship. Investigators interested in collaborations are invited to fill out a simple form ([Internal investigators](https://docs.google.com/forms/d/e/1FAIpQLSfCkvXpW59_sDFOEzyM0m0c3Z0Iqv1o-0WB6UdkpWZRfc3Pqg/viewform?c=0&w=1) "Collaboration request form for internal investigators") and [External investigators](https://docs.google.com/forms/d/e/1FAIpQLScAPV23ZIBpkk9CyEJ1OcFJjMol9elKEpLYnPu7g3PgBL57XA/viewform "Collaboration request form for external investigators")) that asks about the details of the collaboration. Every two weeks, new collaboration requests are reviewed based on feasibility; the vast majority of requests are approved.
+
 
 
 ## References
