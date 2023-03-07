@@ -24,9 +24,12 @@ To identify any variants that created spurious associations, we ran several logi
 
 Before imputation, we performed alleles, strand, and allele frequency comparison with those in reference panels. Variants that were not in reference panel and variants with different alleles, allele frequency difference > 0.2, A/T and C/G variants with minor allele frequency > 0.4 were removed from each dataset. The five datasets were separately imputed. We used three reference panels - the 1,000 Genomes Phase III release, Haplotype Reference Consortium (HRC) release I, and Trans-Omics for Precision Medicine (TOPMed) release II. Our datasets were submitted to Michigan Imputation Server[^4] for the 1000 genomes and HRC imputation, and TOPMed Imputation Server[^4][^5] for the TOPMed imputation. Eagle[^6] and Minimac[^7] were used for genotype phasing and imputation by the Michigan and TOPMed imputation servers. The quality of imputation was estimated by [Rsq and EmpRsq](https://genome.sph.umich.edu/wiki/Minimac3_Info_File) in Minimac info files. [Table 3](https://docs.google.com/spreadsheets/d/1ZvKsZV6QUEOUaDbSpbEz1DAIyOmCzqQewoc9nMYz55I/edit?usp=sharing "Table 3. Rsq and EmpRsq summary for 5 datasets and 3 imputation reference panels") provides a summary of Rsq and EmpRsq for each of the five datasets based on each of the three imputation reference panels.
 
-## Data access
+## Data access statement
 
 The Nurses' Health Study (NHS), Nurses' Health Study II (NHSII), Health Professionals Follow Up Study (HPFS) welcome new collaborations and strive to make establishing them as simple and transparent as possible. Limits are not placed on scientific questions or methods, and there is no requirement for co-authorship. Investigators interested in collaborations are invited to fill out a simple form for [internal investigators](https://docs.google.com/forms/d/e/1FAIpQLSfCkvXpW59_sDFOEzyM0m0c3Z0Iqv1o-0WB6UdkpWZRfc3Pqg/viewform?c=0&w=1 "Collaboration request form for internal investigators") and [external investigators](https://docs.google.com/forms/d/e/1FAIpQLScAPV23ZIBpkk9CyEJ1OcFJjMol9elKEpLYnPu7g3PgBL57XA/viewform "Collaboration request form for external investigators") that asks about the details of the collaboration. Every two weeks, new collaboration requests are reviewed based on feasibility; the vast majority of requests are approved.
+
+With collaboration approval, [standard operating procedure](https://docs.google.com/document/d/1h_R-4eCrtlEWQWCJEF5JPGe8nv2MGXQ44iLeYrmFDE8/edit?usp=sharing "standard operating procedure") for data analysis is available upon request.
+
 
 ## References
 [^1]: Lindström S, Loomis S, Turman C, Huang H, Huang J, Aschard H, et al. A comprehensive survey of 
