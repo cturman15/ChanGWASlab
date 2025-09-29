@@ -6,7 +6,7 @@ The Nurses' Health Study (NHS), Nurses' Health Study II (NHSII), Health Professi
 
 We performed imputation using common reference panels, the 1,000 Genomes Phase III release, Haplotype Reference Consortium (HRC) release I, and Trans-Omics for Precision Medicine (TOPMed) release II. The pooled resource can be used to maximize power in GWAS of phenotypes collected across the cohorts and for studying gene-environment interactions as well as rare phenotypes and genotypes.  
 
-## GWAS studies and genotyping 
+## GWAS studies and quality control (QC)
 
 Since 2007, a total of nineteen GWAS have been conducted across these four cohorts ([Table 2](https://docs.google.com/spreadsheets/d/1PLOWKqM6Lb15C3e7IIM1VwsAT7H0VJ1QWsVNZSgGitw/edit?usp=sharing "Table 2. GWAS datasets in NHS/NHSII/HPFS/PHS cohorts")). The primary traits are breast cancer, colon cancer, coronary heart disease, endometrial cancer, endometriosis, glaucoma, gout, kidney stone, mammographic density, melanoma, ovarian cancer, pancreatic cancer, post-traumatic stress disorder, prostate cancer, squamous cell carcinoma, type 2 diabetes, venous thromboembolism, infertility and ulcerative colitis. These studies were genotyped on six different arrays - the Affymetrix, Illumina HumanHap, Illumina OmniExpress, HumanCore Exome, Illumina OncoArray and Global Screening Array.
 
